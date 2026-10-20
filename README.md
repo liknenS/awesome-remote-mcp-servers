@@ -1188,6 +1188,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Spelling Bee Hive](https://www.spellingbeehive.com/spelling-bee-mcp) `https://www.spellingbeehive.com/mcp`
   [![Spelling Bee Hive MCP connector](https://glama.ai/mcp/connectors/com.spellingbeehive/spelling-bee/badges/score.svg)](https://glama.ai/mcp/connectors/com.spellingbeehive/spelling-bee)
   🔓 - Look up spelling bee words with pronunciations, meanings and origins, and run practice rounds at nine levels.
+- [Talkfirst](https://talkfirst.io/?utm_source=awesome-remote-mcp&utm_medium=catalog) `https://mcp.talkfirst.io/mcp`
+  [![Talkfirst MCP connector](https://glama.ai/mcp/connectors/io.talkfirst/talkfirst/badges/score.svg)](https://glama.ai/mcp/connectors/io.talkfirst/talkfirst)
+  🔐 - Speaking practice in English, Polish, Lithuanian and Czech (beta): pronunciation, voice chats, quizzes, audio lessons.
 - [Underlayer](https://underlayerhq.com/docs/mcp) `https://underlayerhq.com/api/mcp`
   [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
   🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
